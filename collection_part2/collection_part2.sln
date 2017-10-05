@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collection_part2", "collection_part2\collection_part2.csproj", "{C7B2E57D-3FDE-46CC-BAE4-2BCE0843C8FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collection_part2,3_Array", "collection_part2\collection_part2,3_Array.csproj", "{C7B2E57D-3FDE-46CC-BAE4-2BCE0843C8FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
